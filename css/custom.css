@@ -33,3 +33,7 @@
 .lang .english {
 	background-image: url('../img/flags-en.png');
 }
+
+.img {
+	margin: 20px;
+}
